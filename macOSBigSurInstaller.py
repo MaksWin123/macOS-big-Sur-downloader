@@ -1,6 +1,7 @@
 import time
 import os
 
+#this is fake shit ofc
 
 print ("downloading macOS Big Sur 11.0 release...")
 time.sleep(15)
