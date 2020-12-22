@@ -14,6 +14,6 @@ time.sleep(5)
 print ("changing boot priority")
 time.sleep(4) 
 
-print ("macOS has been successfully installed. Your mac will reboot automatically in 15 seconds.")
+print ("macOS has been successfully installed. Your mac will reboot automatically in 15 seconds. (write your password) ")
 time.sleep(15)
 os.system("sudo reboot")
