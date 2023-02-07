@@ -9,5 +9,4 @@ python installer for new macOS version
 4. Write cd Desktop
 5. Then write ```
 python macOSBigSurInstaller.py
-```
 6. Aaaaand your done!
