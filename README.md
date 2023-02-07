@@ -7,6 +7,7 @@ python installer for new macOS version
 2. Download the zip file and save it to your desktop 
 3. Open Terminal (you can open it by typing terminal in spotlight search)
 4. Write cd Desktop
-5. Then write ```
-python macOSBigSurInstaller.py
+5. Then write
+``` python macOSBigSurInstaller.py
+```
 6. Aaaaand your done!
